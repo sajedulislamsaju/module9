@@ -45,7 +45,7 @@ img {
 
 
 @media screen and (max-width:576px) {
-    .s-row,.third-conteinor {
+    .secend-row,.third-conteinor {
         flex-direction: column;
         
     }
